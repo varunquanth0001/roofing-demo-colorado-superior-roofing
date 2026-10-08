@@ -1,0 +1,487 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Colorado Superior Roofing & Exteriors.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Colorado Superior Roofing & Exteriors | Roofing in Denver, CO",
+    "description": "Colorado Superior Roofing & Exteriors: roof inspections, roof repair and roof replacement for homes and businesses in Denver.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Colorado Superior Roofing & Exteriors",
+    "shortName": "Colorado Superior",
+    "wordmark": "Colorado Superior",
+    "phone": "(303) 937-7000",
+    "phoneE164": "+13039377000",
+    "email": null,
+    "address": null,
+    "hours": null,
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Get a quote"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Inspection",
+        "title": "Roof inspections",
+        "meta": "Clear answers, fast"
+      },
+      {
+        "img": "service-roof-repair",
+        "badge": "Repair",
+        "title": "Roof repair",
+        "meta": "Homes and businesses"
+      },
+      {
+        "img": "service-roof-replacement",
+        "badge": "Replacement",
+        "title": "Roof replacement",
+        "meta": "Full replacement"
+      },
+      {
+        "img": "service-chimney-repair",
+        "badge": "Claims",
+        "title": "Insurance claims",
+        "meta": "Avoid the stress"
+      }
+    ],
+    "promo": {
+      "kicker": "Quote",
+      "title": "Get a quote",
+      "line": "Tell us about your roof and we will follow up.",
+      "button": "Start"
+    }
+  },
+  "hero": {
+    "eyebrow": "Roofing & exteriors · Denver, Colorado",
+    "title": "Roofing without<br /><mark class=\"hl\">the stress.</mark>",
+    "lead": "Roof inspections, repairs and replacements for busy Denver property owners, with help on insurance and no runaround.",
+    "cta": "Request a quote",
+    "cta2": "See services",
+    "meta": "Rated 4.9/5 · 532 reviews",
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "storm",
+      "label": "Inspection",
+      "em": null,
+      "type": null,
+      "town": "Denver, CO",
+      "title": "Roof inspections",
+      "img": "service-roof-replacement",
+      "line": "Inspections that tell you plainly what your roof needs, so you can decide fast.",
+      "fact": null,
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Repair",
+      "em": null,
+      "type": null,
+      "town": "Denver, CO",
+      "title": "Roof repair",
+      "img": "service-roof-repair",
+      "line": "Roof repairs for homes and businesses across Colorado.",
+      "fact": null,
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Replacement",
+      "em": null,
+      "type": null,
+      "town": "Denver, CO",
+      "title": "Roof replacement",
+      "img": "service-roof-replacement",
+      "line": "Roof replacement.",
+      "fact": null,
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Claims",
+      "em": null,
+      "type": null,
+      "town": "Denver, CO",
+      "title": "Insurance claims",
+      "img": "service-chimney-repair",
+      "line": "Help handling the insurance side of a roof claim.",
+      "fact": null,
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Exteriors",
+      "em": null,
+      "type": null,
+      "town": "Denver, CO",
+      "title": "Exteriors",
+      "img": "service-roof-replacement",
+      "line": "Exterior work alongside your roof.",
+      "fact": null,
+      "meta": null,
+      "at": [
+        1480,
+        430
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Colorado Superior",
+    "title": "4.9 stars,<br /><mark>532 reviews.</mark>",
+    "body": "Over 20 years serving Denver homes and businesses, with an A+ BBB rating.",
+    "cta": "Get a quote",
+    "signs": [
+      {
+        "value": "4.9",
+        "label": "average rating"
+      },
+      {
+        "value": "532",
+        "label": "reviews"
+      },
+      {
+        "count": 20,
+        "suffix": "+",
+        "label": "years in business"
+      },
+      {
+        "count": 5,
+        "label": "roofing services"
+      }
+    ],
+    "tickerLabel": "Why Colorado Superior",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Over 20 years serving Denver property owners",
+        ""
+      ],
+      [
+        "A+ BBB",
+        ""
+      ],
+      [
+        "500+ five-star reviews",
+        ""
+      ],
+      [
+        "Help handling insurance",
+        ""
+      ],
+      [
+        "Homes and businesses",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Smart roof<br /><mark>decisions.</mark>",
+    "cta": "Get a quote",
+    "countLabel": "services",
+    "linkLabel": "Request a quote",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "storm",
+        "big": true,
+        "tag": "Inspection",
+        "img": "service-roof-replacement",
+        "title": "Roof inspections",
+        "sub": "Clear answers, fast",
+        "line": "Inspections that tell you plainly what your roof needs, so you can decide fast.",
+        "specs": "Inspection",
+        "pin": [
+          "Denver",
+          "CO"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Repair",
+        "img": "service-roof-repair",
+        "title": "Roof repair",
+        "sub": "Homes and businesses",
+        "line": null,
+        "specs": "Repair",
+        "pin": [
+          "Denver",
+          "CO"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Replacement",
+        "img": "service-roof-replacement",
+        "title": "Roof replacement",
+        "sub": "Full replacement",
+        "line": null,
+        "specs": "Replacement",
+        "pin": [
+          "Denver",
+          "CO"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Claims",
+        "img": "service-chimney-repair",
+        "title": "Insurance claims",
+        "sub": "Avoid the stress",
+        "line": null,
+        "specs": "Claims",
+        "pin": [
+          "Denver",
+          "CO"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Exteriors",
+        "img": "service-roof-replacement",
+        "title": "Exteriors",
+        "sub": "Beyond the roof",
+        "line": null,
+        "specs": "Exteriors",
+        "pin": [
+          "Denver",
+          "CO"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Serving<br /><mark>Denver.</mark>",
+    "body": "Serving homeowners and businesses across Colorado.",
+    "cardLink": "Request a quote →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Denver",
+        "c": "CO",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Colorado Superior Roofing & Exteriors serves Denver."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Quote",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Quote request for {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Request my quote",
+    "foot": " "
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (303) 937-7000 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "4.9",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Roof inspections, roof repair, roof replacement, insurance claims and exteriors."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Denver, CO."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a quote?",
+        "a": "Use the form on this page, or call (303) 937-7000."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Quote",
+    "title": "Book a roof<br /><mark>inspection.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Request a quote",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (303) 937-7000.",
+    "under": "Rated 4.9/5 · 532 reviews",
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Contact",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
